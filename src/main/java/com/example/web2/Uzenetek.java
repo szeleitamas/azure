@@ -1,7 +1,8 @@
 package com.example.web2;
 
-import com.sun.istack.NotNull;
+
 import javax.persistence.*;
+import javax.validation.constraints.NotNull;
 import javax.validation.constraints.Size;
 
 @Entity
